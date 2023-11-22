@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+p>b{
+    font-size: 20px;
+    font-weight: 700;
+}
+a{
+    border: 1px solid black;
+    border-radius: 2px;
+    background-color: blue;
+    color: black;
+}
