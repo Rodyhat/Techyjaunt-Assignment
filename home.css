@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;box-sizing: border-box;
+}
+
+nav {
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    padding: 40px 100px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffff;
+}
+
+a:hover {
+    color: #000;
+}
+
+
+article{
+    margin-top: 100px;
+}
+
+h1{
+    color: #ffff;
+}
